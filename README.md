@@ -34,3 +34,23 @@ Todos os exercícios serão resolvidos e salvos todos neste repositório na sua 
 O objetivo do trabalho é modelar o mecanismo de sustentação e movimentação do painel solar para obter a maior região de trabalho possível, otimizando a captura de radição solar no espaço.
 
 O modelo leva em consideração um painel comum, sustentado por cinco hastes rígidas, com conexões especificadas por juntas referentes aos graus de movimentação necessários para culminar com o movimento final adequado que é esperado.
+
+#### ⚙️ Resultados para as Rotações dos Motores
+
+<h3 align="center">
+  <img alt="rot1" title="rotacao2" src="./rotacao_1.png" />
+</h3>
+
+<h3 align="center">
+  <img alt="rot2" title="rotacao2" src="./rotacao_2.png" />
+</h3>
+
+#### ⚙️ Resultados para os Torques dos Motores
+
+<h3 align="center">
+  <img alt="tq1" title="torque2" src="./torque_1.png" />
+</h3>
+
+<h3 align="center">
+  <img alt="tq2" title="torque2" src="./torque_2.png" />
+</h3>
